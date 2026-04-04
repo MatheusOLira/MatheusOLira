@@ -21,5 +21,10 @@ Também trabalho com desenvolvimento de mods para jogos (DayZ) e projetos indepe
 - Mods para DayZ
 
 ## 📫 Contato
-- LinkedIn: (seu link)
-- Email: (seu email)
+- LinkedIn: https://www.linkedin.com/in/matheus-lira-3a062328a/
+- Email: contato@matheuslira.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusolira)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=your-github-)
